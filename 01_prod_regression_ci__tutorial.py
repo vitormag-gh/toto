@@ -16,7 +16,7 @@ import seaborn as sns
 from sklearn.linear_model import LinearRegression
 from sklearn import model_selection
 from sklearn import metrics
-get_ipython().run_line_magic('matplotlib', 'inline')
+ 
 
 
 # In[60]:

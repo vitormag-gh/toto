@@ -3,6 +3,5 @@ sklearn
 matplotlib
 seaborn
 numpy
-scipy
  
  
